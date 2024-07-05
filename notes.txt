@@ -1,0 +1,39 @@
+To import font:
+
+ @import url("")
+
+
+
+for navbar to show always:
+postion - sticky
+
+to style id:
+#idname
+
+to style class:
+.classname
+
+
+to align horizontally:
+#feature{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+
+
+for changing something in the same section having same class and id:
+#id .class : nth-child()
+
+
+Span tags are used on small segments of text, links, images,
+and other HTML elements that appear inline with the surrounding content
+
+
+
+z index:
+negative to place behind image
+
+if child postition is absolute then then parent should have relative position
